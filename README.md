@@ -11,6 +11,7 @@ Here, the important question is, if an engineer wants to build a system that req
 Goals:
 
 Web scraping V/S API call.
+
 Detail description of web scraping using Beautifulsoup and Selenium.
 
 Specifications:
